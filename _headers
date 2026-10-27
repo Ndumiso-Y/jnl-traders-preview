@@ -1,0 +1,8 @@
+# Cloudflare Pages response headers for the development preview.
+# Keeps every page and asset out of search indexes until the official launch.
+/*
+  X-Robots-Tag: noindex, nofollow, noarchive, nosnippet, noimageindex
+  X-Content-Type-Options: nosniff
+  Referrer-Policy: strict-origin-when-cross-origin
+  X-Frame-Options: DENY
+  Permissions-Policy: camera=(), microphone=(), geolocation=(), interest-cohort=()
