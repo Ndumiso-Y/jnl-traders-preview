@@ -1,0 +1,1 @@
+import{g as e}from"./PageShell-O3vBacLb.js";var t=e();function n({name:e,localOnly:n,children:r}){return(0,t.jsxs)(`div`,{className:`gate`,"data-gate":e,"data-local-only":n||void 0,children:[n&&(0,t.jsx)(`p`,{className:`gate__flag`,role:`note`,children:`Local preview only · not on the public preview until approved`}),r]})}export{n as t};

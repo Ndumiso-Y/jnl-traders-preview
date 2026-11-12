@@ -1,0 +1,1 @@
+.gate[data-local-only]{outline-offset:6px;border-radius:calc(var(--u) * 18);outline:2px dashed #b06f2e99;position:relative}.gate__flag{color:var(--jnl-white);letter-spacing:.06em;text-transform:uppercase;background:#7a3d12;border-radius:999px;margin-bottom:10px;padding:4px 10px;font-size:11px;font-weight:700;display:inline-block}
